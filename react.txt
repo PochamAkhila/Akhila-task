@@ -1,0 +1,35 @@
+useParams is to get the data from the address bar.
+
+html:
+what is html/html5, html5 features, html5 semantic elements, diff b/w html4 and html5, box-sizing, content-sizing, box-modal, margin, padding, block vs inline,
+picture,html optimization techniquesto improve performance, datalist, lists, doctype, meta tags, colors, tables, responsive, charset, canvas vs svg, forms -{input, input types, attribues,
+
+css:
+types of selectors, types to load css, position*****, max-width,units, filter, borders, margin-collapse, display:none vs visiblity: hidden,z-index, float, flexbox, image sprites, specificity,
+list types, how to change color to list style type::marker, max-height, fonts, counters, gradients, text effects, object fir, sass, animations, css2 vs css3, iframes, vendor prefixes,
+cascading, browser compatability,margin - auto, box-shadow, nth-child vs nth-of-type, how to center horizontally and vertically, opacity, border-collapse.
+
+Dom:
+what is dom, dom tree structure, dom methods, collections, node list ,browser bom.
+
+git:
+what is version control system, what is git, git vs git bash, git configuration using git bash and vs, git commands.
+
+mongo-db:
+what is mongo db , non relation db, collections, documents, clusters, commands, mangoose library, schema, model features, advantages datatypes.
+
+js:
+jit, what is js, features, advantages, variables, data types, hoisting, callbacks,async await, promises, functions, types of functions, function expression, objects and methods, 
+arrays and methods, hof, string and methods, date, math, error, strict mode, this, operators, events and event listeners, break, continuee, loops, scope, reserve keywords, how to
+name variables,event bubling and capture, debugging, json.parse, json.stringify, regex, conditional and terinary operators, history, == , === ,type of, class, constructor, switch,
+window, settimeout, set interval, async vs defer, clousers
+
+map vs forEach, function declaration vs function expression, how to create array, how to create objects, how to access object
+
+es6- arrow, destructuring, apread, rest, default parameters, function rest parameters
+
+json, api, request methods, https status codes
+
+
+
+

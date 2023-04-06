@@ -1,0 +1,13 @@
+Hooks are functions that you can call within a functional component to add state, lifecycle methods, context, and other features. There are several built-in hooks provided by React, such as useState, useEffect, useContext, useReducer, and more.
+
+In React, a hook is a function that allows you to use React features and capabilities in functional components. Hooks were introduced in React a way to provide functional components with stateful logic and other features that were previously only available to class components.
+
+Hooks follow a specific naming convention, which is to start the function name with the word "use". This tells React that the function is a hook, and allows it to be used within a functional component.
+
+In a typical React application, data is passed top-down (parent to child) via props, but this can be difficult for certain types of props (e.g. locale preference, UI theme) that are required by many components which are Nested at different levels within an application. 
+
+Context provides a way to pass data or state through the component tree without having to pass props down manually through each nested component. It is designed to share data that can be considered as global data for a tree of React components, such as the current authenticated user or theme(e.g. color, paddings, margins, font-sizes).
+
+
+
+https://www.canva.com/design/DAFcb0_c8hs/WnMglaN6LpyyuX46VLJlUw/edit?utm_content=DAFcb0_c8hs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
